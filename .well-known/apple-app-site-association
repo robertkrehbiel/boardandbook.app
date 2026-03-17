@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "59UW9X364N.com.ripkrehbiel.BoardAndBook",
+        "paths": ["/play", "/play/*"]
+      }
+    ]
+  }
+}
